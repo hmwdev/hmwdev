@@ -77,7 +77,10 @@ I’m still early. I care about good foundations, clean design, and steady progr
 
 <p align="center">
   <a href="https://github.com/hmwdev/Study-Vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmwdev&repo=Study-Vault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&border_radius=10" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=hmwdev&repo=Study-Vault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&border_radius=10"
+      alt="Study-Vault repository card"
+    />
   </a>
 </p>
 
@@ -98,12 +101,23 @@ I’m still early. I care about good foundations, clean design, and steady progr
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmwdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&text_color=E5E7EB&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmwdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB&border_radius=10"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=hmwdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&text_color=E5E7EB&border_radius=10"
+    alt="GitHub stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmwdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB&border_radius=10"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmwdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&border_radius=10" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hmwdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&border_radius=10"
+    alt="GitHub streak"
+  />
 </p>
 
 </div>
