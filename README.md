@@ -1,39 +1,27 @@
 <div align="center">
 
-<!-- Aesthetic Header with Dark Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1f3a,100:0a0e27&height=250&section=header&animation=twinkling&fontAlignY=40" width="100%"/>
-
-<div style="margin-top: -100px;">
-
-<!-- Main Brand Name with Gradient -->
-# <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=90&duration=2000&pause=1000&color=4F46E5&background=FFFFFF00&center=true&vCenter=true&width=400&height=100&lines=HMW" alt="HMW" />
-
-<p align="center" style="margin-top: -20px; font-size: 11px; color: #64748b; font-style: italic;">
-  "I think, therefore I am"
-</p>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1f3a,100:0a0e27&height=250&section=header&animation=twinkling&text=HMW&fontSize=90&fontColor=60A5FA&fontAlignY=35&desc=Build%20quietly.%20Build%20well.&descSize=16&descColor=64748b&descAlignY=55" width="100%"/>
 
 ### Hirusha Madhava Weerarathna
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Training+%F0%9F%A7%A0;Building+Intelligent+Systems+%F0%9F%A4%96;Crafting+Efficient+Solutions+%E2%9A%A1;Future+Software+Architect+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=1200&color=60A5FA&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Training;Statistics+%7C+Maths+%7C+Operations+Research;Building+Software+That+Works" alt="Typing SVG" />
 </p>
 
 </div>
 
 ---
 
-</div>
-
-<!-- Left-aligned Introduction Section -->
 <div align="left">
 
-## 🎓 About
+## About
 
-**BSc. (Hons) Statistics & Operations Research** | University of Peradeniya | 4th Year Undergraduate
+I’m a fourth-year undergraduate at the **University of Peradeniya**, studying **Statistics, Mathematics, and Operations Research**.
 
-I'm a 4th-year student passionate about **AI/ML engineering** and **software architecture**. My foundation in statistics, mathematics, and operations research, combined with hands-on software development, drives me to build intelligent systems that are both powerful and efficient.
+My work sits between **AI/ML** and **software systems**. I like building things that are useful, clear, and fast. Right now, I’m learning by building—one project at a time.
 
-I care deeply about **performance optimization**—from high-level AI products to low-level system design. Currently learning, building, and preparing for opportunities in **Europe's tech ecosystem** 🇪🇺.
+I’m still early. I care about good foundations, clean design, and steady progress.
 
 </div>
 
@@ -41,63 +29,43 @@ I care deeply about **performance optimization**—from high-level AI products t
 
 <div align="center">
 
-## ⚡ TECH STACK
+## Tech Stack
 
-### 🤖 AI/ML/DL
+### AI / ML / Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" />
-  <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" height="48" alt="Jupyter"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="48" alt="Keras"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" alt="AI Stack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="48" alt="Jupyter"/>
 </p>
 
-### 💻 Languages
+### Languages / Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,c,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,java&theme=dark" alt="Languages" />
 </p>
 
-### 🌐 Full-Stack Development
+### Web / Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,html,css,js&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,fastapi,html,css,js&theme=dark&perline=8" alt="Web Stack" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&theme=dark&perline=6" alt="Tools" />
 </p>
-
----
 
 </div>
 
-<!-- Left-aligned Current Focus -->
+---
+
 <div align="left">
 
-## 🎯 CURRENT FOCUS
+## Current Focus
 
-```yaml
-building:
-  - "Study-Vault: AI-Powered Knowledge Management Platform"
-  - "End-to-End ML Pipelines with PyTorch"
-  - "Full-Stack AI Applications (React + FastAPI)"
-  - "High-Performance Systems with Rust & Go"
-
-learning:
-  - "Deep Learning & Neural Network Architectures"
-  - "MLOps & Model Deployment Strategies"
-  - "Software Architecture & Design Patterns"
-  - "System Design & Scalability"
-  - "Containerization (Docker & Kubernetes)"
-
-exploring:
-  - "AI Product Development Lifecycle"
-  - "Low-Level System Optimization"
-  - "Cloud Platforms (AWS/GCP)"
-  - "European Tech Ecosystem & Opportunities 🇪🇺"
-```
+- Building **Study-Vault**, an AI-assisted knowledge platform
+- Learning **deep learning**, **ML systems**, and **model deployment**
+- Practicing **software architecture** and **system design**
+- Working with **PyTorch**, **FastAPI**, **Docker**, and **React**
 
 </div>
 
@@ -105,7 +73,29 @@ exploring:
 
 <div align="center">
 
-## 📊 GITHUB STATS
+## Featured Project
+
+<p align="center">
+  <a href="https://github.com/hmwdev/Study-Vault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmwdev&repo=Study-Vault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Study-Vault is a project built around structured learning, clean organization, and AI-assisted workflows.
+    <br/>
+    It reflects the kind of systems I want to keep building: useful, simple, and well thought out.
+  </em>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmwdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&text_color=E5E7EB&border_radius=10"/>
@@ -116,33 +106,41 @@ exploring:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmwdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=8B5CF6&fire=60A5FA&currStreakLabel=8B5CF6&border_radius=10" alt="GitHub Streak"/>
 </p>
 
----
-
-## 🚀 FEATURED PROJECTS
-
-<p align="center">
-  <a href="https://github.com/hmwdev/Study-Vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hmwdev&repo=Study-Vault&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=8B5CF6&border_radius=10" />
-  </a>
-</p>
-
-<p align="center">
-  <em>🔨 More projects coming soon... Building in public!</em>
-</p>
+</div>
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+<div align="center">
+
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmwdev&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=60A5FA&line=8B5CF6&point=E5E7EB&border_radius=10" width="95%"/>
 </p>
 
+</div>
+
 ---
 
-## 🌐 CONNECT WITH ME
+<div align="left">
+
+## A Few Things I Care About
+
+- learning deeply, not quickly  
+- writing code that stays readable  
+- building systems with clear structure  
+- improving step by step  
+
+</div>
+
+---
+
+<div align="center">
+
+## Connect
 
 <p align="center">
+  <!-- Replace the links below with your real profiles -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
@@ -158,31 +156,22 @@ exploring:
 </p>
 
 <p align="center">
-  <em>💡 Open to collaborations, internships, and innovative projects</em>
+  <em>Open to learning, collaboration, and good work.</em>
 </p>
+
+</div>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+<div align="center">
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hmwdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hmwdev&label=Profile%20Views&color=60A5FA&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/hmwdev?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=0D1117" alt="Followers"/>
-</p>
-
----
-
-<p align="center">
-  <em>"Efficiency isn't just about speed—it's about elegant solutions to complex problems."</em>
+  <em>"Do the work. Keep it clean. Let it speak."</em>
 </p>
 
 <br/>
 
-<!-- Aesthetic Footer -->
+<!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1f3a,100:0a0e27&height=150&section=footer" width="100%"/>
 
 </div>
